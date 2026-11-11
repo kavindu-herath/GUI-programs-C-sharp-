@@ -1,0 +1,7 @@
+C:\Users\WW\Documents\C#\BillApp\BillApp\bin\Debug\BillApp.exe.config
+C:\Users\WW\Documents\C#\BillApp\BillApp\bin\Debug\BillApp.exe
+C:\Users\WW\Documents\C#\BillApp\BillApp\bin\Debug\BillApp.pdb
+C:\Users\WW\Documents\C#\BillApp\BillApp\obj\Debug\BillApp.csproj.AssemblyReference.cache
+C:\Users\WW\Documents\C#\BillApp\BillApp\obj\Debug\BillApp.csproj.CoreCompileInputs.cache
+C:\Users\WW\Documents\C#\BillApp\BillApp\obj\Debug\BillApp.exe
+C:\Users\WW\Documents\C#\BillApp\BillApp\obj\Debug\BillApp.pdb

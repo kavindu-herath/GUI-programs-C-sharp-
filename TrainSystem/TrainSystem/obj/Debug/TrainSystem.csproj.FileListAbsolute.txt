@@ -1,0 +1,7 @@
+C:\Users\WW\Documents\C#\TrainSystem\TrainSystem\bin\Debug\TrainSystem.exe.config
+C:\Users\WW\Documents\C#\TrainSystem\TrainSystem\bin\Debug\TrainSystem.exe
+C:\Users\WW\Documents\C#\TrainSystem\TrainSystem\bin\Debug\TrainSystem.pdb
+C:\Users\WW\Documents\C#\TrainSystem\TrainSystem\obj\Debug\TrainSystem.csproj.AssemblyReference.cache
+C:\Users\WW\Documents\C#\TrainSystem\TrainSystem\obj\Debug\TrainSystem.csproj.CoreCompileInputs.cache
+C:\Users\WW\Documents\C#\TrainSystem\TrainSystem\obj\Debug\TrainSystem.exe
+C:\Users\WW\Documents\C#\TrainSystem\TrainSystem\obj\Debug\TrainSystem.pdb

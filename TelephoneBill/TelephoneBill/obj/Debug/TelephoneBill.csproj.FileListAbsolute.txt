@@ -1,0 +1,7 @@
+C:\Users\WW\Documents\C#\TelephoneBill\TelephoneBill\obj\Debug\TelephoneBill.csproj.AssemblyReference.cache
+C:\Users\WW\Documents\C#\TelephoneBill\TelephoneBill\obj\Debug\TelephoneBill.csproj.CoreCompileInputs.cache
+C:\Users\WW\Documents\C#\TelephoneBill\TelephoneBill\bin\Debug\TelephoneBill.exe.config
+C:\Users\WW\Documents\C#\TelephoneBill\TelephoneBill\bin\Debug\TelephoneBill.exe
+C:\Users\WW\Documents\C#\TelephoneBill\TelephoneBill\bin\Debug\TelephoneBill.pdb
+C:\Users\WW\Documents\C#\TelephoneBill\TelephoneBill\obj\Debug\TelephoneBill.exe
+C:\Users\WW\Documents\C#\TelephoneBill\TelephoneBill\obj\Debug\TelephoneBill.pdb

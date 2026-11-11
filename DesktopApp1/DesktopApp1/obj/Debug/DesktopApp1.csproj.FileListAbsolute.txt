@@ -1,0 +1,10 @@
+C:\Users\WW\Documents\C#\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe.config
+C:\Users\WW\Documents\C#\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe
+C:\Users\WW\Documents\C#\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.pdb
+C:\Users\WW\Documents\C#\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.AssemblyReference.cache
+C:\Users\WW\Documents\C#\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Properties.Resources.resources
+C:\Users\WW\Documents\C#\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.GenerateResource.cache
+C:\Users\WW\Documents\C#\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\WW\Documents\C#\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.exe
+C:\Users\WW\Documents\C#\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.pdb
+C:\Users\WW\Documents\C#\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.FrmGreet.resources

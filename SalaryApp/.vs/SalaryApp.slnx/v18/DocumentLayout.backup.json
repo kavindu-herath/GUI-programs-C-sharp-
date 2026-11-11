@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WW\\Documents\\C#\\SalaryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8DD261-9417-4D3B-BF84-8DE829193D31}|SalaryApp\\SalaryApp.csproj|c:\\users\\ww\\documents\\c#\\salaryapp\\salaryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8DD261-9417-4D3B-BF84-8DE829193D31}|SalaryApp\\SalaryApp.csproj|solutionrelative:salaryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8DD261-9417-4D3B-BF84-8DE829193D31}|SalaryApp\\SalaryApp.csproj|C:\\Users\\WW\\Documents\\C#\\SalaryApp\\salaryapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8DD261-9417-4D3B-BF84-8DE829193D31}|SalaryApp\\SalaryApp.csproj|solutionrelative:salaryapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\WW\\Documents\\C#\\SalaryApp\\SalaryApp\\Employee.cs",
+              "RelativeDocumentMoniker": "SalaryApp\\Employee.cs",
+              "ToolTip": "C:\\Users\\WW\\Documents\\C#\\SalaryApp\\SalaryApp\\Employee.cs",
+              "RelativeToolTip": "SalaryApp\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T04:06:43.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WW\\Documents\\C#\\SalaryApp\\SalaryApp\\Program.cs",
+              "RelativeDocumentMoniker": "SalaryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\WW\\Documents\\C#\\SalaryApp\\SalaryApp\\Program.cs",
+              "RelativeToolTip": "SalaryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T04:05:53.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

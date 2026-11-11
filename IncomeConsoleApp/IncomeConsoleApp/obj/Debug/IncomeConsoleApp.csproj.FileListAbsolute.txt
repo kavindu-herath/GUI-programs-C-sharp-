@@ -1,0 +1,7 @@
+C:\Users\WW\Documents\C#\IncomeConsoleApp\IncomeConsoleApp\bin\Debug\IncomeConsoleApp.exe.config
+C:\Users\WW\Documents\C#\IncomeConsoleApp\IncomeConsoleApp\bin\Debug\IncomeConsoleApp.exe
+C:\Users\WW\Documents\C#\IncomeConsoleApp\IncomeConsoleApp\bin\Debug\IncomeConsoleApp.pdb
+C:\Users\WW\Documents\C#\IncomeConsoleApp\IncomeConsoleApp\obj\Debug\IncomeConsoleApp.csproj.AssemblyReference.cache
+C:\Users\WW\Documents\C#\IncomeConsoleApp\IncomeConsoleApp\obj\Debug\IncomeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\WW\Documents\C#\IncomeConsoleApp\IncomeConsoleApp\obj\Debug\IncomeConsoleApp.exe
+C:\Users\WW\Documents\C#\IncomeConsoleApp\IncomeConsoleApp\obj\Debug\IncomeConsoleApp.pdb

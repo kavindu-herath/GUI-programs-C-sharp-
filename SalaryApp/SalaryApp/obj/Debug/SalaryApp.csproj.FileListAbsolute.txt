@@ -1,0 +1,7 @@
+C:\Users\WW\Documents\C#\SalaryApp\SalaryApp\bin\Debug\SalaryApp.exe.config
+C:\Users\WW\Documents\C#\SalaryApp\SalaryApp\bin\Debug\SalaryApp.exe
+C:\Users\WW\Documents\C#\SalaryApp\SalaryApp\bin\Debug\SalaryApp.pdb
+C:\Users\WW\Documents\C#\SalaryApp\SalaryApp\obj\Debug\SalaryApp.csproj.AssemblyReference.cache
+C:\Users\WW\Documents\C#\SalaryApp\SalaryApp\obj\Debug\SalaryApp.csproj.CoreCompileInputs.cache
+C:\Users\WW\Documents\C#\SalaryApp\SalaryApp\obj\Debug\SalaryApp.exe
+C:\Users\WW\Documents\C#\SalaryApp\SalaryApp\obj\Debug\SalaryApp.pdb

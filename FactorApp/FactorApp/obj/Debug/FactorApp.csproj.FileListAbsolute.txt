@@ -1,0 +1,7 @@
+C:\Users\WW\Documents\C#\FactorApp\FactorApp\obj\Debug\FactorApp.csproj.AssemblyReference.cache
+C:\Users\WW\Documents\C#\FactorApp\FactorApp\obj\Debug\FactorApp.csproj.CoreCompileInputs.cache
+C:\Users\WW\Documents\C#\FactorApp\FactorApp\bin\Debug\FactorApp.exe.config
+C:\Users\WW\Documents\C#\FactorApp\FactorApp\bin\Debug\FactorApp.exe
+C:\Users\WW\Documents\C#\FactorApp\FactorApp\bin\Debug\FactorApp.pdb
+C:\Users\WW\Documents\C#\FactorApp\FactorApp\obj\Debug\FactorApp.exe
+C:\Users\WW\Documents\C#\FactorApp\FactorApp\obj\Debug\FactorApp.pdb

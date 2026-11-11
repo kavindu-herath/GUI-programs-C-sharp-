@@ -1,0 +1,10 @@
+C:\Users\WW\Documents\C#\Delivery App\Delivery App\bin\Debug\Delivery App.exe.config
+C:\Users\WW\Documents\C#\Delivery App\Delivery App\bin\Debug\Delivery App.exe
+C:\Users\WW\Documents\C#\Delivery App\Delivery App\bin\Debug\Delivery App.pdb
+C:\Users\WW\Documents\C#\Delivery App\Delivery App\obj\Debug\Delivery App.csproj.AssemblyReference.cache
+C:\Users\WW\Documents\C#\Delivery App\Delivery App\obj\Debug\Delivery_App.Form1.resources
+C:\Users\WW\Documents\C#\Delivery App\Delivery App\obj\Debug\Delivery_App.Properties.Resources.resources
+C:\Users\WW\Documents\C#\Delivery App\Delivery App\obj\Debug\Delivery App.csproj.GenerateResource.cache
+C:\Users\WW\Documents\C#\Delivery App\Delivery App\obj\Debug\Delivery App.csproj.CoreCompileInputs.cache
+C:\Users\WW\Documents\C#\Delivery App\Delivery App\obj\Debug\Delivery App.exe
+C:\Users\WW\Documents\C#\Delivery App\Delivery App\obj\Debug\Delivery App.pdb

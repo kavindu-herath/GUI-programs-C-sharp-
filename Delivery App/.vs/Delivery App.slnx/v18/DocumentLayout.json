@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WW\\Documents\\C#\\Delivery App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD60481F-056E-4201-BDF9-A2DD9E7C57CD}|Delivery App\\Delivery App.csproj|C:\\Users\\WW\\Documents\\C#\\Delivery App\\delivery app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD60481F-056E-4201-BDF9-A2DD9E7C57CD}|Delivery App\\Delivery App.csproj|solutionrelative:delivery app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD60481F-056E-4201-BDF9-A2DD9E7C57CD}|Delivery App\\Delivery App.csproj|c:\\users\\ww\\documents\\c#\\delivery app\\delivery app\\deliveryorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD60481F-056E-4201-BDF9-A2DD9E7C57CD}|Delivery App\\Delivery App.csproj|solutionrelative:delivery app\\deliveryorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD60481F-056E-4201-BDF9-A2DD9E7C57CD}|Delivery App\\Delivery App.csproj|C:\\Users\\WW\\Documents\\C#\\Delivery App\\delivery app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD60481F-056E-4201-BDF9-A2DD9E7C57CD}|Delivery App\\Delivery App.csproj|solutionrelative:delivery app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\WW\\Documents\\C#\\Delivery App\\Delivery App\\Form1.cs",
+              "RelativeDocumentMoniker": "Delivery App\\Form1.cs",
+              "ToolTip": "C:\\Users\\WW\\Documents\\C#\\Delivery App\\Delivery App\\Form1.cs",
+              "RelativeToolTip": "Delivery App\\Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T06:20:27.629Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeliveryOrder.cs",
+              "DocumentMoniker": "C:\\Users\\WW\\Documents\\C#\\Delivery App\\Delivery App\\DeliveryOrder.cs",
+              "RelativeDocumentMoniker": "Delivery App\\DeliveryOrder.cs",
+              "ToolTip": "C:\\Users\\WW\\Documents\\C#\\Delivery App\\Delivery App\\DeliveryOrder.cs",
+              "RelativeToolTip": "Delivery App\\DeliveryOrder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:48:34.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\WW\\Documents\\C#\\Delivery App\\Delivery App\\Form1.cs",
+              "RelativeDocumentMoniker": "Delivery App\\Form1.cs",
+              "ToolTip": "C:\\Users\\WW\\Documents\\C#\\Delivery App\\Delivery App\\Form1.cs [Design]",
+              "RelativeToolTip": "Delivery App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T06:20:24.821Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

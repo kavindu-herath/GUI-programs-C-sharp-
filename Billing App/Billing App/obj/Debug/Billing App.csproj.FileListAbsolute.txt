@@ -1,0 +1,10 @@
+C:\Users\WW\Documents\C#\Billing App\Billing App\bin\Debug\Billing App.exe.config
+C:\Users\WW\Documents\C#\Billing App\Billing App\bin\Debug\Billing App.exe
+C:\Users\WW\Documents\C#\Billing App\Billing App\bin\Debug\Billing App.pdb
+C:\Users\WW\Documents\C#\Billing App\Billing App\obj\Debug\Billing App.csproj.AssemblyReference.cache
+C:\Users\WW\Documents\C#\Billing App\Billing App\obj\Debug\Billing_App.Form1.resources
+C:\Users\WW\Documents\C#\Billing App\Billing App\obj\Debug\Billing_App.Properties.Resources.resources
+C:\Users\WW\Documents\C#\Billing App\Billing App\obj\Debug\Billing App.csproj.GenerateResource.cache
+C:\Users\WW\Documents\C#\Billing App\Billing App\obj\Debug\Billing App.csproj.CoreCompileInputs.cache
+C:\Users\WW\Documents\C#\Billing App\Billing App\obj\Debug\Billing App.exe
+C:\Users\WW\Documents\C#\Billing App\Billing App\obj\Debug\Billing App.pdb
