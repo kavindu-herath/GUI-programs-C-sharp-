@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\WW\\Documents\\C#\\SalaryApp\\",
+  "WorkspaceRootPath": "C:\\Users\\HP VICTUS\\Documents\\C#\\SalaryApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E8DD261-9417-4D3B-BF84-8DE829193D31}|SalaryApp\\SalaryApp.csproj|c:\\users\\ww\\documents\\c#\\salaryapp\\salaryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E8DD261-9417-4D3B-BF84-8DE829193D31}|SalaryApp\\SalaryApp.csproj|solutionrelative:salaryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E8DD261-9417-4D3B-BF84-8DE829193D31}|SalaryApp\\SalaryApp.csproj|C:\\Users\\HP VICTUS\\Documents\\C#\\SalaryApp\\salaryapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8DD261-9417-4D3B-BF84-8DE829193D31}|SalaryApp\\SalaryApp.csproj|solutionrelative:salaryapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E8DD261-9417-4D3B-BF84-8DE829193D31}|SalaryApp\\SalaryApp.csproj|C:\\Users\\WW\\Documents\\C#\\SalaryApp\\salaryapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E8DD261-9417-4D3B-BF84-8DE829193D31}|SalaryApp\\SalaryApp.csproj|solutionrelative:salaryapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E8DD261-9417-4D3B-BF84-8DE829193D31}|SalaryApp\\SalaryApp.csproj|c:\\users\\hp victus\\documents\\c#\\salaryapp\\salaryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8DD261-9417-4D3B-BF84-8DE829193D31}|SalaryApp\\SalaryApp.csproj|solutionrelative:salaryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,27 +21,31 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\WW\\Documents\\C#\\SalaryApp\\SalaryApp\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\Documents\\C#\\SalaryApp\\SalaryApp\\Employee.cs",
               "RelativeDocumentMoniker": "SalaryApp\\Employee.cs",
-              "ToolTip": "C:\\Users\\WW\\Documents\\C#\\SalaryApp\\SalaryApp\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\Documents\\C#\\SalaryApp\\SalaryApp\\Employee.cs",
               "RelativeToolTip": "SalaryApp\\Employee.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T04:06:43.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\WW\\Documents\\C#\\SalaryApp\\SalaryApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\Documents\\C#\\SalaryApp\\SalaryApp\\Program.cs",
               "RelativeDocumentMoniker": "SalaryApp\\Program.cs",
-              "ToolTip": "C:\\Users\\WW\\Documents\\C#\\SalaryApp\\SalaryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\Documents\\C#\\SalaryApp\\SalaryApp\\Program.cs",
               "RelativeToolTip": "SalaryApp\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T04:05:53.127Z",
               "EditorCaption": ""

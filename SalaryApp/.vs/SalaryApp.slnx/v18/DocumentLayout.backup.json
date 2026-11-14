@@ -28,9 +28,10 @@
               "RelativeDocumentMoniker": "SalaryApp\\Employee.cs",
               "ToolTip": "C:\\Users\\WW\\Documents\\C#\\SalaryApp\\SalaryApp\\Employee.cs",
               "RelativeToolTip": "SalaryApp\\Employee.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T04:06:43.507Z"
+              "WhenOpened": "2026-10-30T04:06:43.507Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +41,7 @@
               "RelativeDocumentMoniker": "SalaryApp\\Program.cs",
               "ToolTip": "C:\\Users\\WW\\Documents\\C#\\SalaryApp\\SalaryApp\\Program.cs",
               "RelativeToolTip": "SalaryApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T04:05:53.127Z",
               "EditorCaption": ""
