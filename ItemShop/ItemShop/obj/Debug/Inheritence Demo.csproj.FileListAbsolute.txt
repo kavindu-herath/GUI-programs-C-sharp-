@@ -1,2 +1,4 @@
 C:\Users\HP VICTUS\source\repos\ItemShop\ItemShop\obj\Debug\Inheritence Demo.csproj.AssemblyReference.cache
 C:\Users\HP VICTUS\source\repos\ItemShop\ItemShop\obj\Debug\Inheritence Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP VICTUS\Documents\C#\ItemShop\ItemShop\obj\Debug\Inheritence Demo.csproj.AssemblyReference.cache
+C:\Users\HP VICTUS\Documents\C#\ItemShop\ItemShop\obj\Debug\Inheritence Demo.csproj.CoreCompileInputs.cache

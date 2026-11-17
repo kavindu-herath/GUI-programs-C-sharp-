@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP VICTUS\\source\\repos\\InheritanceDemo\\",
+  "WorkspaceRootPath": "C:\\Users\\HP VICTUS\\Documents\\C#\\InheritanceDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{279742BE-29FA-4A26-A6EA-1E0ECD8E1836}|InheritanceDemo\\InheritanceDemo.csproj|c:\\users\\hp victus\\source\\repos\\inheritancedemo\\inheritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{279742BE-29FA-4A26-A6EA-1E0ECD8E1836}|InheritanceDemo\\InheritanceDemo.csproj|c:\\users\\hp victus\\documents\\c#\\inheritancedemo\\inheritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{279742BE-29FA-4A26-A6EA-1E0ECD8E1836}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP VICTUS\\source\\repos\\InheritanceDemo\\InheritanceDemo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\Documents\\C#\\InheritanceDemo\\InheritanceDemo\\Program.cs",
               "RelativeDocumentMoniker": "InheritanceDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\HP VICTUS\\source\\repos\\InheritanceDemo\\InheritanceDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\Documents\\C#\\InheritanceDemo\\InheritanceDemo\\Program.cs",
               "RelativeToolTip": "InheritanceDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,0 +1,35 @@
+﻿<Window x:Class="DeliveryOrder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DeliveryOrder"
+        mc:Ignorable="d"
+        Title="Delivery Order" Height="600" Width="400">
+    <Grid Height="600">
+        <Label Content="Customer Order" HorizontalAlignment="Center" Margin="0,31,0,0" VerticalAlignment="Top" FontFamily="Rockwell Extra Bold" FontSize="30" Foreground="Red" FontWeight="Bold" Background="#FFFFE0E0"/>
+        <Label Content="Customer Address:" HorizontalAlignment="Left" Margin="27,98,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="TxtAddress" HorizontalAlignment="Center" Height="24" Margin="0,132,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="334" BorderBrush="Red" FontWeight="Bold"/>
+        <Label Content="Nearest Branch:" HorizontalAlignment="Left" Margin="27,169,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+        <ComboBox x:Name="CmdBranch" HorizontalAlignment="Center" Margin="0,203,0,0" VerticalAlignment="Top" Width="334" FontWeight="Bold" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem Background="Red" Foreground="White" Content="Colombo" FontSize="14"/>
+            <ComboBoxItem Background="#FF17FF00" Content="Vauniya" Foreground="White" FontSize="14"/>
+            <ComboBoxItem Background="#FF000AFF" Content="Kandy" FontSize="14" Foreground="White"/>
+        </ComboBox>
+        <Label Content="Package Weight:" HorizontalAlignment="Left" Margin="27,239,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="TxtWeight" HorizontalAlignment="Center" Height="24" Margin="0,272,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="334" BorderBrush="Red" FontWeight="Bold"/>
+        <GroupBox Header="Delivery Type:" Margin="27,320,33,213" FontSize="14" FontWeight="Bold">
+            <Grid>
+                <RadioButton x:Name="RdbNormal" Content="Normal" HorizontalAlignment="Left" Margin="54,0,0,0" VerticalAlignment="Center" IsChecked="True"/>
+                <RadioButton x:Name="RdbSpeed" Content="Speed" HorizontalAlignment="Left" Margin="211,0,0,0" VerticalAlignment="Center" IsChecked="False" RenderTransformOrigin="1.605,0.866"/>
+
+            </Grid>
+        </GroupBox>
+        <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="406,487,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BtnCalculate" Content="Calculate" HorizontalAlignment="Left" Margin="61,409,0,0" VerticalAlignment="Top" Height="35" Width="107" FontWeight="Bold" FontSize="14" Background="#FFC7FDC6" BorderBrush="#FFFF7070" Foreground="#FFDC5A5A"/>
+        <Button x:Name="BtnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="230,409,0,0" VerticalAlignment="Top" Height="35" Width="107" FontSize="14" FontWeight="Bold" Background="#FFFFD3D3" Foreground="#FFD46969" BorderBrush="#FFFF7575"/>
+        <Label Content="Delivery Cost:" HorizontalAlignment="Left" Margin="27,458,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="TxtCost" HorizontalAlignment="Center" Height="24" Margin="0,492,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="334" BorderBrush="Red" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

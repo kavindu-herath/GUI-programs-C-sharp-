@@ -1,0 +1,7 @@
+C:\Users\HP VICTUS\Documents\C#\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+C:\Users\HP VICTUS\Documents\C#\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+C:\Users\HP VICTUS\Documents\C#\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+C:\Users\HP VICTUS\Documents\C#\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\HP VICTUS\Documents\C#\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP VICTUS\Documents\C#\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+C:\Users\HP VICTUS\Documents\C#\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.pdb
