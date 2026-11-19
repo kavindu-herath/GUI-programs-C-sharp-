@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP VICTUS\\Documents\\Visual Studio Projects\\DatabaseConnection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC099064-0E04-489B-B24D-375F44560D19}|DatabaseConnection\\DatabaseConnection.csproj|c:\\users\\hp victus\\documents\\visual studio projects\\databaseconnection\\databaseconnection\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC099064-0E04-489B-B24D-375F44560D19}|DatabaseConnection\\DatabaseConnection.csproj|solutionrelative:databaseconnection\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC099064-0E04-489B-B24D-375F44560D19}|DatabaseConnection\\DatabaseConnection.csproj|c:\\users\\hp victus\\documents\\visual studio projects\\databaseconnection\\databaseconnection\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC099064-0E04-489B-B24D-375F44560D19}|DatabaseConnection\\DatabaseConnection.csproj|solutionrelative:databaseconnection\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC099064-0E04-489B-B24D-375F44560D19}|DatabaseConnection\\DatabaseConnection.csproj|c:\\users\\hp victus\\documents\\visual studio projects\\databaseconnection\\databaseconnection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC099064-0E04-489B-B24D-375F44560D19}|DatabaseConnection\\DatabaseConnection.csproj|solutionrelative:databaseconnection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\Documents\\Visual Studio Projects\\DatabaseConnection\\DatabaseConnection\\DbConnection.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\Documents\\Visual Studio Projects\\DatabaseConnection\\DatabaseConnection\\DbConnection.cs",
+              "RelativeToolTip": "DatabaseConnection\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:30:55.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\Documents\\Visual Studio Projects\\DatabaseConnection\\DatabaseConnection\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DatabaseConnection\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HP VICTUS\\Documents\\Visual Studio Projects\\DatabaseConnection\\DatabaseConnection\\MainWindow.xaml*",
+              "RelativeToolTip": "DatabaseConnection\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-19T04:01:55.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\Documents\\Visual Studio Projects\\DatabaseConnection\\DatabaseConnection\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\Documents\\Visual Studio Projects\\DatabaseConnection\\DatabaseConnection\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DatabaseConnection\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAswKEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T04:01:54.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
